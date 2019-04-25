@@ -1,7 +1,7 @@
 # Nevrale nettverk fra scratch
-Av Thomas F, Ask og Torry
+*Av Thomas F, Ask og Torry (Takk til Håkan og Jørgen L for hjelp til forberedelsene!)*
 
-Takk til Håkan og Jørgen L for hjelp til forberedelsene!
+
 
 Hva trenger du?
 - En PC med Google konto
