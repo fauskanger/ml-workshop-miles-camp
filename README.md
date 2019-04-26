@@ -29,13 +29,13 @@ Vi har funnet en relevant og kort tutorial/(som notebook) om Python og Numpy (Du
 
 Om du er interessert i matematikken, kan det også være nyttig å repetere litt om derivasjon og linear algebra slik at du er komfortabel med begreper som partielderivert, vektor, matrise, dotprodukt og matrisemultiplikasjon. 
 
-En veldig kort gjennomgang finnes her, med tilhørende kode i Numpy.
+En veldig kort gjennomgang finnes [her](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html), med tilhørende kode i Numpy.
 
-Om du foretrekker å se video om linear algebra, kan jeg dra frem noen fra denne spillelisten:
+Om du foretrekker å se video om linear algebra, kan jeg dra frem noen fra [denne](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) spillelisten:
  - Vektor: https://www.youtube.com/watch?v=fNk_zzaMoSs
  - Linear kombinasjon: https://www.youtube.com/watch?v=k7RM-ot2NWY
  - Matrix multiplikasjon: https://www.youtube.com/watch?v=XkY2DOUCWMU
 
-Flere videoer om derivasjon fra denne spillelisten:
+Flere videoer om derivasjon fra [denne](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) spillelisten:
  - Intuisjon for derivasjon: https://www.youtube.com/watch?v=S0_qX4VJhMQ
  - Intuisjon for kjerneregel: https://www.youtube.com/watch?v=YG15m2VwSjA
